@@ -1,0 +1,24 @@
+﻿  entity.cpp
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\raycaster.h(85,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\raycaster.h(85,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.h(60,34): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(4,7): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(4,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(5,55): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(7,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(11,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(11,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(37,17): warning C4305: '+=': truncation from 'double' to 'float'
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(39,22): warning C4305: '-=': truncation from 'double' to 'float'
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(41,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(42,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(48,17): warning C4305: '-=': truncation from 'double' to 'float'
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(50,22): warning C4305: '+=': truncation from 'double' to 'float'
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(52,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(53,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(57,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(114,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(115,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(143,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\RaycasterDemo\RaycasterDemo\src\entity.cpp(144,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  RaycasterDemo.vcxproj -> D:\GitHub\RaycasterDemo\Debug\RaycasterDemo.exe
